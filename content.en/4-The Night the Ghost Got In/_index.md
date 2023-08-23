@@ -658,17 +658,17 @@ author.
 1. Have an inspiring OPENING and
 ENDING. 
 2. Appropriate(suitable)TONE of VOICE.
-(e.g.) sincere for a serious issue, humour
+**(e.g.)** sincere for a serious issue, humour
 for comedy etc
 3. Adapt speech for PURPOSE and
-AUDIENCE. (e.g.) teenagers, mixed
+AUDIENCE. **(e.g.)** teenagers, mixed
 audience, teachers, children etc
 4. Organise IDEAS logically and do not
 confuse the audience.
 5. Use EMOTIVE language to CONVINCE
 your audience that what you are saying
 should be listened to. 
-(e.g.) Even if they put us in chains, torture
+**(e.g.)** Even if they put us in chains, torture
 us and leave us to bleed we will not move.
 Blood will be our victory!
 6. Use RHETORICAL QUESTIONS –
@@ -679,8 +679,8 @@ good man? (knowing that the audience
 agree anyway)
 7. Make sure you are writing in the
 CORRECT PERSON
-(e.g.) I believe that … I knew him well …
-8. Use interesting facts and figures (e.g.)
+**(e.g.)** I believe that … I knew him well …
+8. Use interesting facts and figures **(e.g.)**
 200000 people… with diagrams
 or charts to help your audience
 visualize it.
@@ -691,34 +691,151 @@ visualize it.
 A, An and The are called Articles.
 
 We use a or an with singular nouns only.
-(e.g.) A girl, An orange 
+**(e.g.)** A girl, An orange 
 
 We use a with singular nouns and adjectives which begin with a consonant sound.
-(e.g.) A computer, A unit (yu+nit), A wonderful artist
+**(e.g.)** A computer, A unit (yu+nit), A wonderful artist
 
 We use an with singular nouns and adjectives which begin with a vowel sound.
-(e.g.) An artist, An M.L.A. (em.el.a), An honest shopkeeper
+**(e.g.)** An artist, An M.L.A. (em.el.a), An honest shopkeeper
 
 **NOTE** 
 Words beginning with consonant letters do not always begin with consonant sounds.
 Similarly words beginning with vowel letters do not always begin with vowel sounds.
-(e.g.) Honour (sounds like – onour) European (sounds like yu-ropean)
+**(e.g.)** Honour (sounds like – onour) European (sounds like yu-ropean)
 
 We use the when a person, an animal, a plant, a place, a thing is mentioned for a second
 time.
 
-(e.g.) I bought a book this morning. I am reading the book now. 
+**(e.g.)** I bought a book this morning. I am reading the book now. 
 
 We use the when it is clear to the listener or reader which person, animal, place, or thing
 we are referring to.
-(e.g.) The judge found him not guilty.
+**(e.g.)** The judge found him not guilty.
 
 We use the when there is only one such thing.
-
-(e.g.) The earth goes round the sun.
+**(e.g.)** The earth goes round the sun.
 
 We usually use the before ordinal numbers.
-
-(e.g.) I live on the third floor.
+**(e.g.)** I live on the third floor.
 
 We use the before some proper nouns such as :
+**(e.g.)** The Indian Ocean, The Arabian Sea
+
+We use the before names of most buildings, landmarks, monuments and natural wonders.
+**(e.g.)** The Park Hotel, The Taj Mahal
+
+We use the before names of places containing of
+**(e.g.)** The Republic of China.
+
+The names of places ending in plurals.
+**(e.g.)** The Andaman and Nicobar Islands, The Netherlands.
+
+Some proper nouns are not preceded by an article.
+- the names of continents - Africa, Asia
+- the names of countries - Belgium, India
+- the names of towns and cities. – Tokyo, Chennai
+- the names of streets - Ritchie Street.
+
+Some nouns can be counted and they are called as countable nouns; some cannot be
+counted and they are called uncountable nouns.
+
+We use a or an only before countable nouns
+
+**(e.g.)** A leaf fell off the tree. (countable)
+Rain can cause flooding (uncountable)
+
+We use the with uncountable nouns, when it is clear to the reader which things we are
+referring to. We do not use the with uncountable nouns when we are talking in general.
+(Uncountable nouns do not take the plural forms).
+
+**(e.g.)** The rice in this super market is good. Rice is the staple food of Asians.
+The word some can be used with both countable and uncountable nouns in the following
+ways.
+
+**(e.g.)** I want some apples.
+I want some papers.
+
+**A. Nagarajan and Dhanalakshmi want to buy a new house. They have come to see a
+house for sale. Complete the conversation below by adding a, an or the.**
+
+**Nagarajan** : Well, here we are, No.8, Kaveri Street. I think this is______ house we saw online. What do you think of________ location?
+**Dhanalakshmi** : It is in______ nice neighbourhood. And it’s close to the railway station.
+**Nagarajan** : And_______ bus stop is not too far away.
+**Dhanalakshmi** : How many rooms are there?
+**Nagarajan** : There are three rooms,_______ kitchen and______ balcony.
+**Dhanalakshmi** : There is_____ lawn behind_____ house, right?
+**Nagarajan** : That’s right_____ lawn is actually quite large. Did you see any photos
+of______ living room, online? What does it look like?
+**Dhanalakshmi** :________ living room looks great. It looks bright and airy. It has______ nice view of_____ hills. But______ kitchen looks______ little small. 
+**Nagarajan** : And, I remember you said there isn’t_______ store room, right? 
+**Dhanalakshmi** : No, but there is_____ attic, where we can store things. 
+**Nagarajan** : I hope this house is______ better option. 
+**Dhanalakshmi** : Let's wait for_____ real estate agent. She said, she would be here at three o’clock.
+**Nagarajan** : Look. There she is!
+
+**B. Few articles are missing in the given passage. Edit the passage given below by adding
+suitable articles wherever necessary.**
+
+My neighbourhood is very interesting place. My house is located in apartment
+building downtown near many stores and offices. There is small supermarket across
+street, where my family likes to go shopping. There is also post office and bank near our
+home. In our neighbourhood there is small, Green Park where my friends and I like to
+play on weekends and holidays. There is small pond near park and there are many ducks
+in park. We always have great time. In addition there is elementary school close to our
+home where my little brother studies in third grade. There are so many things to see and
+do in my neighbourhood that’s why I like it. It’s really great place.
+
+**Prepositional Phrases**
+These prepositions are formed by a two-word or a three-word combination such as
+according to, along with, at the time of, because of, owing to, instead of etc. These kinds
+of prepositions are used frequently in our day to day life.
+
+**Examples**
+
+**C. Refer to the dictionary to find out the meaning of the following prepositions and
+match them with the correct meaning.**
+
+**D. Fill in the blanks by choosing the most appropriate prepositional phrase from the
+given options.**
+
+1. Everything falls to the ground _______ earth’s gravitational pull.
+a. in addition to b. because of c. cause of
+
+2. The trial was conducted ___________ the procedure of law.
+a. in accordance with b. due to c. despite of   
+
+3. There is a temple right ________ my house.
+a. in back of b. apart from c. in front of
+
+4. As a ________ of his hard work, he achieved the target.
+a. instead of b. result of c. apart from
+
+5. Failure is often the __________ negligence.
+a. effect of b. consequence of c. reason of
+
+6. Children are given toys ____________ sweets on Children’s day.
+a. on top of b. in addition to c. due to
+
+7. The parents must be informed ___________ any indiscipline conduct of their wards.
+a. because of b. in case of c. in spite of
+
+8. He didn’t turn up ____________ his busy schedule.
+a. consequence of b. due to c. except for
+
+9. Global warming is ______________ the green house emission.
+a. an effect of b. in spite of c. in addition to
+
+10. ______________ several warnings, he continued to swim.
+a. due to b. in spite of c. because of
+
+**E. Edit the following passage by replacing the underlined incorrect words with correct
+prepositional phrases.**
+Janu is studying in class X. In the event of the teachers _________
+she is a disciplined student. In addition to her poverty, she_________
+is always neat. Many students like her in case of _________
+her simplicity. According to her studies, she also __________
+participates in sports. She gets on with everyone in case of _____________
+age and gender in the school. In opposition to taking leave, she ensures ___________
+that she completes the work given before she goes to school next day
+ 
