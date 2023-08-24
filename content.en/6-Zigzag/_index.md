@@ -1,6 +1,6 @@
 ---
-title:Zigzag
-weight:6
+title: 'Zigzag'
+weight: 6
 ---
 ##Zigzag
 
@@ -90,14 +90,14 @@ a penknife that has cut open the pockets
 of three skirts and two pairs of jeans as
 really useful.’
 
-‘And what about the aboriginal
+‘And what about the **aboriginal**
 boomerang Uncle Somu brought us all the
 way from Australia?’ demanded Arvind.
 ‘You can’t deny that it was a great hit with
 everyone.’
 
 ‘Great hit indeed!’ Mrs.Krishnan
-didn’t bother to hide her sarcasm
+didn’t bother to hide her **sarcasm**
 and continued, ‘Considering that the
 boomerang sliced through all the TV
 aerials in the neighbourhood, caused
@@ -144,10 +144,10 @@ weirdest-looking bird the Krishnan family
 had ever seen.
 
 About a foot and a half tall, its
-bald head was fringed with a crown of
+bald head was **fringed** with a crown of
 shocking pink feathers while the rest of
-its plumage was in various shades of the
-muddiest sludgiest brown. Its curved beak
+its **plumage** was in various shades of the
+muddiest **sludgiest** brown. Its curved beak
 was sunflower-yellow and its eyes were
 the colour of cola held to sunlight.
 
@@ -158,7 +158,7 @@ can even recite French Poetry!’
 
 The object of all this praise was
 standing cool and unmoved, with an
-expression of almost-human grumpiness
+expression of almost-human **grumpiness**
 in his cola-coloured eyes.
 
 Arvind, finding that Zigzag was
@@ -226,7 +226,7 @@ snoralu…’
 
 ‘I thought it was scientific fact that
 birds couldn’t snore,’ said Maya, trying to
-squirt water from a small water pistol at
+**squirt** water from a small water pistol at
 Zigzag to wake him and wetting most of
 the curtains, the walls and a sofa instead.
 
@@ -236,7 +236,7 @@ that his best imitations of a raging lion,
 a hungry hyena and a ferocious dog had
 failed to draw Zigzag out of his deep
 slumber. Now he tried his loudest, most
-frightening coyote call.
+frightening **coyote** call.
 
 But Zigzag slept on undisturbed.
 And snored on.
@@ -329,7 +329,7 @@ sometimes he would sit on the veranda
 looking sulky and bored as he stared at the
 Sunset at Marina beach- the real view, not
 the painting lying forlorn in one corner,
-ruined by streaks of hardening papaya.
+ruined by **streaks** of hardening papaya.
 Zigzag never spoke to anyone, though
 everyone tried several times, and in
 several languages, to speak to him kindly.
@@ -393,7 +393,7 @@ Instead the bird looked happy and alert as
 it went about the job it had been trained
 for, first with the African witch doctor and
 then with Dr.Somu. Dr.Krishnan’s clinic,
-usually a noisy sea of tears and tantrums,
+usually a noisy sea of tears and **tantrum**s,
 was transformed into a calm, orderly 
 
 place as Zigzag efficiently soothed the
@@ -457,8 +457,25 @@ But Ziggy - Zagga - King - of - the
 -Tonga, brought up on compliments as he
 was, didn’t bother to reply. He just ate the
 toffee, paper wrapper and all, and then
-lowered one crinkly eyelid in a knowing
+lowered one **crinkly** eyelid in a knowing
 wink.
+
+## About the author
+**Asha Nehemiah**
+born in 1958
+at Chennai has
+lived, studied
+and worked in 8
+different cities and
+small towns and
+is now a resident of Bangalore. She has
+always been interested in writing .Her love
+for reading , led her to study Literature
+in college. If she had not been a writer,
+she would have been a teacher . Humour,
+fantasy, mystery and adventure are the
+strong elements in her work. She loves
+baking, walking, reading and travelling.
 
 ##Glossary
 
@@ -473,55 +490,3 @@ wink.
 **streaks** (n) - line, strap.
 **tantrum** (n) - outburst, flare-up.
 **crinkly** (adj.) - wrinkly.
-
-**A. Identify the speaker / character.**
-
-1. Even though I clearly said no!
-2. The one that spits deadly poison straight into its opponent’s eyes.
-3. Remember the tiny penknife he gave me last year.
-4. It’s Somu’s thoughtless ways that reduce me to tears.
-5. Come in, Zigzag, come in dear!
-
-**B. Read the story again and write how
-these characters reacted in these
-situations:**
-1. You’re both quite mistaken.
-**Dr. Krishnan** ........…………………….
-**Mrs. Krishnan**……....…………………
-2. It’s Somu’s thoughtless ways that reduce
-me to tears.
-**Mrs. Krishnan** …………………....…..
-**Dr. Krishnan** ……………..…......…….
-3. Just wait till Zigzag settles down in this
-new home.
-**Visu**………….................………………
-**Arvind and Maya**…….……………….
-4. Zigzag hardly ever sleeps.
-**Somu**………………………...................
-**Dr.Krishnan**…………………......…….
-5. You are an absolute treasure……….….
-**Dr.Krishnan**………………...................
-**Zigzag**……………………...............…..
-
-**C. Complete the given tabular columns.**
-
-**D. Answer the following questions in one or two sentences:**
-
-1. Why did Dr. Ashok’s cousin call him ?
-2. Mention at least two expressions which show that Mrs. Krishnan was not willing to have
-Zigzag at home.
-3. What are the pets did Somu have?
-4. What was Mrs.Krishnan busy with?
-5. What commotion did the boomerang cause in the neighborhood?
-6. What happened when Somu left Zigzag with the Krishnans?
-7. How did Zigzag communicate with the Krishnans?
-8. What was the e-mail message sent to Somu by Dr.Krishnan?
-9. What did Arvind confess?
-10. Why did Mrs. Jhunjhunwala buy the painting?
-
-**E. Answer the following questions in about 100 - 150 words:**
-
-1. Write a passage in your own words on various commotions caused by Zigzag at Dr.
-Krishnan’s residence.
-2. What happened when Zigzag was taken to the clinic.
-3. Narrate the story of Zigzag in your own words.

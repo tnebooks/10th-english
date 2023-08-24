@@ -1,6 +1,6 @@
 ---
-title: The Tempest
-weight:3
+title: 'The Tempest'
+weight: 3
 ---
 ##The Tempest
 There was an island in the sea, the
@@ -24,6 +24,14 @@ trees. These gentle spirits were ever after
 obedient to the will of Prospero. Of these
 Ariel was the chief.
 
+Ariel took rather too much pleasure
+in **tormenting** an ugly monster called
+Caliban, because he was the son of his old
+enemy Sycorax. Caliban was employed
+like a slave, to fetch wood, and do the most
+laborious offices; and Ariel had the charge
+of compelling him to these services.
+
 With the help of these spirits,
 Prospero could command the winds, and
 the waves of the sea. By his orders they
@@ -34,7 +42,7 @@ beings like themselves. “Oh my dear
 
 father,” said she, “if by
 your art you have raised
-this dreadful storm, have
+this **dreadful** storm, have
 pity on their sad distress.
 See! the vessel will be
 dashed to pieces. Poor
@@ -51,7 +59,7 @@ cell? I think you cannot, for you were not
 then three years of age.”
 
 “Twelve years ago, Miranda,”
-continued Prospero, “I was Duke of Milan,
+continued Prospero, “I was **Duke** of Milan,
 and you were a princess, and my only heir.
 I had a younger brother, whose name was
 Antonio, to whom I trusted everything;
@@ -60,7 +68,7 @@ possession of my power, began to think
 himself the duke indeed. The opportunity
 I gave him of making himself popular
 among my subjects awakened in his bad
-nature a proud ambition to deprive me of
+nature a proud ambition to **deprive** me of
 my dukedom: this he soon effected with
 the aid of the King of Naples, a powerful
 prince, who was my enemy.”
@@ -217,7 +225,7 @@ Prospero had commanded Ferdinand
 to pile up some heavy logs of wood. Kings’
 sons not being much used to laborious
 work, Miranda soon after found him
-almost dying with fatigue. “Alas!” said she,
+almost dying with **fatigue**. “Alas!” said she,
 “do not work so hard; my father is at his
 studies, he is safe for these three hours;
 pray rest yourself.”
@@ -253,7 +261,7 @@ have overheard, and approve of all you
 have said. And, Ferdinand, if I have too
 severely used you, I will make you rich
 amends, by giving you my daughter as
-your wife in future. All your vexations
+your wife in future. All your **vexations**
 were but trials of your love, and you have
 nobly stood the test. 
 
@@ -265,11 +273,11 @@ King of Naples. Ariel said he had left them
 almost out of their senses with fear, at the
 strange things he had caused them to see
 and hear. When fatigued with wandering
-about, and famished for want of food, he
+about, and **famished** for want of food, he
 had suddenly set before them a delicious
 banquet, and then, just as they were going
 to eat, he appeared visible before them in
-the shape of a harpy, a voracious monster
+the shape of a harpy, a **voracious** monster
 with wings, and the feast vanished away.
 Then, to their utter amazement, this
 seeming harpy spoke to them, reminding
@@ -280,7 +288,7 @@ saying, that for this cause these terrors
 were suffered to afflict them.
 
 The King of Naples, and Antonio the
-false brother, repented the injustice they
+false brother, **repented** the injustice they
 had done to Prospero.
 
 “Then bring them here, Ariel,” said
@@ -343,6 +351,20 @@ Before Prospero left the island, he
 dismissed Ariel from his service, to the
 great joy of that lively little spirit.
 
+##About the author
+**William Shakespeare**
+(1564–1616) was
+born in Stratfordupon-Avon, England.
+He was an English
+poet, playwright and actor. He is widely
+regarded as both the greatest writer in
+the English language and the world's
+pre-eminent dramatist. His surviving
+body of work includes 37 plays, 154
+sonnets and two narrative poems, the
+majority of which he penned between
+1589 and 1613.
+
 ##Glossary
 **tormenting** (v) – making someone suffer
 or worry a lot
@@ -358,84 +380,3 @@ or necessary away from someone
 **voracious** (adj.) - very eager for something
 **repent** (v) - to be very sorry for something
 bad you have done.
-**A. Choose the correct answer**
-1. ______was the chief of all spirits.
-a. Sycorax
-b. Caliban
-c. Ariel
-d. Prospero
-2. _______raised a dreadful storm.
-a. Caliban 
-b. Prospero
-c. Miranda 
-d. Sycorax
-3. Miranda was brought to the island_____ years ago.
-a. fourteen 
-b. ten
-c. twelve
-d. five
-4. Prospero ordered Ariel to bring__________ to his place.
-a. Gonzalo 
-b. Ferdinand
-c. King of Naples 
-d. Antonio
-5.________ had provided Prospero
-formerly with books and provisions.
-a. Antonio 
-b. Ferdinand
-c. Gonzalo 
-d. Antonio
-6. The second human being that Miranda
-saw on the island was__________ .
-a. Ariel 
-b. Prospero
-c. Ferdinand 
-d. Gonzalo
-
-**B. Identify the character or speaker**
-
-1. She imprisoned the spirits in the bodies
-of large trees.
-2. He was the chief of all spirits.
-3. I was Duke of Milan, and you were a
-princess.
-4. What a trouble must I have been to you
-then!
-5. Now pray tell me, sir, your reason for
-raising this sea-storm?
-6. I will soon move you.
-7. I will tie you neck and feet together.
-8. I must finish my task before I take my
-rest.”
-9. He repented and implored his brother’s
-forgiveness.
-
-**C. Answer the following questions in one or two sentences.**
-1. Who were the inhabitants of the island?
-2. What powers did Prospero possess?
-3. Who was Caliban? What was he employed for?
-4. Who were on the ship? How were they related to Prospero?
-5. Why had Prospero raised a violent storm in the sea?
-6. How did Miranda feel when her father raised the storm to destroy the ship?
-7. What was Ariel ordered to do with the people on the ship?
-8. Give two reasons why Miranda was so concerned about Ferdinand.
-9. Why did Prospero set Ferdinand a severe task to perform?
-10. How was Gonzalo helpful to Prospero when he left Milan?
-
-**D. Answer the questions in a paragraph of about 100 – 150 words.**
-1. Write a detailed character sketch of Prospero.
-2. Narrate how Prospero made his enemies repent to restore his dukedom.
-
-**E. Rearrange the following sentences in coherent order**
-
-- He ordered Ariel to torment the inmates of the ship.
-- Miranda was attracted by Ferdinand and had more concern towards him.
-- Prospero and Miranda came to an island and lived in a cave.
-- Prospero forgave them and restored his dukedom, Milan.
-- He raised a violent storm in the sea to wreck the ship of his enemies.
-- Prospero wanted to test Ferdinand and gave a severe task to perform.
-- Using his powers, Prospero released the good spirits from large bodies of trees.
-- The King of Naples, and Antonio the false brother, repented the injustice they had
-done to Prospero.
-- Ariel was instructed to bring Ferdinand, the prince of Naples to his cave.
-- Ferdinand was the second human whom Miranda had seen after her father.
